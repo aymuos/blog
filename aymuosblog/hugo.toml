@@ -1,0 +1,5 @@
+baseURL = 'https://aymuos.github.io/'
+languageCode = 'en-us'
+
+theme = "KeepIt"
+title = " A tech blog , based of my learnings "

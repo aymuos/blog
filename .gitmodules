@@ -1,0 +1,4 @@
+[submodule "aymuosblog/public"]
+	path = aymuosblog/public
+	url = https://github.com/aymuos/aymuos.github.io
+	branch = blog
